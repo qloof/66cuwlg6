@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Trip Dashboard",
+    "description": "Road trip planning.",
+    "url": "https://trip.qloof.cc"
+  },
+  {
+    "name": "Student Portal",
+    "description": "Class recordings and materials.",
+    "url": "https://portal.qloof.cc"
+  },
+  {
+    "name": "Pangolin",
+    "description": "Reverse proxy / auth gateway admin.",
+    "url": "https://pangolin.qloof.cc"
+  },
+  {
+    "name": "netcup",
+    "description": "VPS hosting the whole stack.",
+    "links": [
+      { "name": "Customer Control Panel", "url": "https://www.customercontrolpanel.de/" },
+      { "name": "Server Control Panel (SCP)", "url": "https://www.servercontrolpanel.de/SCP/" }
+    ]
+  }
+]
