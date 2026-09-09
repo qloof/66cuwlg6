@@ -15,6 +15,11 @@
     "url": "https://pangolin.qloof.cc"
   },
   {
+    "name": "Uptime Kuma",
+    "description": "Site/service uptime monitoring.",
+    "url": "https://status.qloof.cc"
+  },
+  {
     "name": "netcup",
     "description": "VPS hosting the whole stack.",
     "links": [
