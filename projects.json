@@ -20,6 +20,11 @@
     "url": "https://status.qloof.cc"
   },
   {
+    "name": "PairDrop",
+    "description": "Cross-device file transfer.",
+    "url": "https://drop.qloof.cc"
+  },
+  {
     "name": "netcup",
     "description": "VPS hosting the whole stack.",
     "links": [
