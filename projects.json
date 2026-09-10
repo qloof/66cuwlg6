@@ -25,6 +25,11 @@
     "url": "https://drop.qloof.cc"
   },
   {
+    "name": "Portainer",
+    "description": "Docker container management.",
+    "url": "https://portainer.qloof.cc"
+  },
+  {
     "name": "netcup",
     "description": "VPS hosting the whole stack.",
     "links": [
